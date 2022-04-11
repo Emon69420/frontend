@@ -2285,7 +2285,7 @@ align-items:center;
 }
 @media (max-width: 479px) {
 .upper-section {
-background-image: linear-gradient(#fffc00, rgba(255,127,80,0.85)), url(../images/texture2.png);}
+background-image: linear-gradient(#fffc00, rgba(255,127,80,0.85)), linear-gradient(rgba(255,127,80,0.85), rgba(255,127,80,0.85)), url(../images/texture2.png);}
 }
 
 
